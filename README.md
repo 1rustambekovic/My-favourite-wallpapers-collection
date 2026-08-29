@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td width="33%"><img src="./wallpapers/astronaut,png" width="100%"></td>
+    <td width="33%"><img src="wallpapers/astronaut.png" width="100%"></td>
     <td width="33%"><img src="./wallpapers/astronaut,png" width="100%"></td>
     <td width="33%"><img src="./wallpapers/astronaut,png" width="100%"></td>
     <td width="33%"><img src="./wallpapers/astronaut,png" width="100%"></td>
