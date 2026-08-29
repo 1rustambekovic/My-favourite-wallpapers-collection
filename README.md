@@ -1,4 +1,4 @@
-## Just my personal collection of wallpapers i've saved over time — all credit goes to the talented artists and creators who made them 🙏
+## Just my personal collection of wallpapers I've saved over time — all credit goes to the talented artists and creators who made them 🙏
 
 ---
 
