@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td width="33%"><img src="/wallpapers/sakura.jpg" width="100%"></td>
-    <td width="33%"><img src="/wallpapers/street.png" width="100%"></td>
+    <td width="33%"><img src="wallpapers/street.png" width="100%"></td>
     <td width="33%"><img src="/wallpapers/wallhaven1.jpg" width="100%"></td>
   </tr>
   <tr>
