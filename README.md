@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td width="33%"><img src="wallpapers/astronaut.png" width="100%"></td>
-    <td width="33%"><img src="/wallpapers/astronaut2.png" width="100%"></td>
+    <td width="33%"><img src="/wallpapers/astronaut2.jpg" width="100%"></td>
     <td width="33%"><img src="/wallpapers/blue-girl.png" width="100%"></td>
   </tr>
   <tr>
@@ -30,16 +30,17 @@
     <td width="33%"><img src="/wallpapers/ruins.jpg" width="100%"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="/wallpapers/sakura.png" width="100%"></td>
+    <td width="33%"><img src="/wallpapers/sakura.jpg" width="100%"></td>
+    <td width="33%"><img src="/wallpapers/street.png" width="100%"></td>
     <td width="33%"><img src="/wallpapers/wallhaven1.jpg" width="100%"></td>
-    <td width="33%"><img src="/wallpapers/wallhaven2.jpg" width="100%"></td>
   </tr>
   <tr>
+    <td width="33%"><img src="/wallpapers/wallhaven2.jpg" width="100%"></td>
     <td width="33%"><img src="/wallpapers/wallhaven3.jpg" width="100%"></td>
     <td width="33%"><img src="/wallpapers/wallhaven4.jpg" width="100%"></td>
+    </tr>
+    <tr>
     <td width="33%"><img src="/wallpapers/wallhaven5.jpg" width="100%"></td>
-  </tr>
-  <tr>
     <td width="33%"><img src="/wallpapers/wallhaven6.jpg" width="100%"></td>
     <td width="33%"><img src="/wallpapers/wallpaper1.png" width="100%"></td>
   </tr>
